@@ -94,3 +94,5 @@ https://chatgpt.com/share/6879e219-d5d4-800b-86aa-df319e310a21
 2. 자신의 현재 상황을 정리하기
 3. 학습 정리를 넣어서 점수 받고 그래프까지 받기  
 4. 팀원들끼리 공유
+
+<img width="1186" height="945" alt="output (2)" src="https://github.com/user-attachments/assets/4ee1a1b5-2352-4ee5-8dc1-7edd1f1ed768" />
