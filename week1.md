@@ -95,3 +95,62 @@ https://chatgpt.com/share/6879e219-d5d4-800b-86aa-df319e310a21
 3. 학습 정리를 넣어서 점수 받고 그래프까지 받기  
 4. 팀원들끼리 공유
 
+# 1주차 퀘스트 실행 결과
+
+매일 혹은 주기적으로 자신의 학습과 경험을 돌아보고, 6가지 핵심 역량(시간 관리, CS 지식, 컨디션 조절, 설계력, 구현력, 목표 달성력)을 중심으로 정성적 회고를 정량화하여 시각화하고, 팀원과 함께 공유함으로써 자기 주도성과 피드백 기반 성장을 도모하는 시스템입니다.
+
+## 이슬의 육각형 성장 그래프🎯
+
+<img width="300" height="300" alt="hexagon_graph_day4 (3)" src="https://github.com/user-attachments/assets/e66312b6-6c0b-4601-9b98-a0c4548dcddd" />
+<img width="300" height="300" alt="hexagon_graph_day3 (1)" src="https://github.com/user-attachments/assets/3e1eb32d-fc0e-4372-96ba-d9cb1d8a538a" />
+<img width="300" height="300" alt="hexagon_graph_day2 (1)" src="https://github.com/user-attachments/assets/03f4f9ae-c8da-44bf-bb97-ea03fb25c935" />
+<img width="300" height="300" alt="hexagon_graph_day1 (1)" src="https://github.com/user-attachments/assets/c3a10cef-b12f-4363-aad5-652ec6203e8e" />
+
+
+김찬휘 : 그래프가 점차 커지는 것을 보아 조금씩 성장하고 계신 게 느껴집니다. 한 주 마무리도 잘 하셨으면 좋겠습니다
+
+박천상 : 이슬님의 지속적으로 높은 CS지식이 대단해 보입니다! 하지만 3일차의 컨디션은 어떤 일이 있었는지 우려가 됩니다.
+
+이우현 : 이슬님 그래프를 보면 스스로에게 조금은 엄격하신게 보이시네요. 같이 계속 성장해나가서 면적이 같이 한번 완전 끝까지 넓어졌으면 좋겠어요.
+
+## 이우현의 육각형 성장 그래프🎯
+
+<img width="1173" height="1049" alt="Image" src="https://github.com/user-attachments/assets/5b2611bb-6c96-49ec-a66f-17e01b7b876c" />
+<img width="1173" height="1049" alt="Image" src="https://github.com/user-attachments/assets/6bdf3486-349b-4739-b00c-c02df86106e7" />
+<img width="1173" height="1049" alt="Image" src="https://github.com/user-attachments/assets/6a6c8e17-c1cd-4265-bd7f-4b5332598e78" />
+<img width="1173" height="1049" alt="Image" src="https://github.com/user-attachments/assets/80aad0a6-77b5-4550-8925-960bd9a2a645" />
+
+이슬 : 우현님은 어디 한 곳에 치우쳐져 있는 게 아니라 골고루 분배되어 있네요!! 부럽습니다,, 관리를 잘하시는 거 같아요!!
+
+김찬휘 : 저는 이번 목요일 미션이 가장 어렵다고 생각이 드는데..  넓은 cs지식으로 원하신 목표 달성하신 것 같습니다!
+
+박천상 : 균등한 육각형의 형태가 나오는 것은 우현님의 학습과 구현 시간관리의 밸런스가 적절한 덕분이겠죠? 학습 & 구현의 절묘한 균형을 맞추는 점이 뛰어나 보입니다.
+## 박천상의 육각형 성장 그래프🎯
+
+<img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/883f5983-dd9a-4519-af06-ccb62449c787" />
+<img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/d03c4e03-c9a1-4997-a403-394db335c354" />
+<img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/467e75c9-5b45-43fa-8160-23259d082770" />
+<img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/205eebc4-8c66-46bf-9d89-050a8f4eb017" />
+
+
+이슬 : 천상님 cs지식이 모두 높은데요,, 저 cs학습 지식 제 목표대로 채우는 날이 없어서 천상님을 본받아야겠습니다 ㅜㅜ
+
+김찬휘 : CS 지식을 기반으로 좋은 설계력과 구현력이 나오는 것 같습니다!  컨디션 조절만 잘하신다면 좋은 한 주가 되실 것 같습니다. 
+
+이우현 : 전체적으로 거의 80~90% 정도 미션을 수행하시나보네요… 멋지신 것 같습니다. 저도 구현력과 설계력을 많이 키우고 싶네요.
+
+
+
+## 김찬휘의 육각형 성장 그래프🎯
+
+<img width="300" height="300" alt="output (1)" src="https://github.com/user-attachments/assets/33192df4-0a6d-4d89-a5b3-8ff9fad81f0c" />
+<img width="300" height="300" alt="output (2)" src="https://github.com/user-attachments/assets/c8b25be4-4b13-4d5a-b83c-7ab1055906d3" />
+<img width="300" height="300" alt="output (3)" src="https://github.com/user-attachments/assets/8e72cc2d-d0ce-46b0-8aab-86c3d6b6666c" />
+<img width="300" height="300" alt="output (4)" src="https://github.com/user-attachments/assets/bb368575-38cb-44ad-8dd1-904956c0040b" />
+
+박천상 : 김찬휘님의 CS지식과 컨디션 관리 그리고 꾸준한 시간관리 능력이 돋보였습니다.
+
+이슬 : 찬휘님도 어디 한쪽이 지나치게 부족하거나 그런게 아니라 전체적인 밸런스가 잘 맞네요!! 
+
+이우현 : 찬휘님 그래프를 보면 뭔가 미션 수행하실 때 미션을 잘 쪼개서 공부할 수 있는 부분을 잘 나눠서 시간분배하실 것 같아요. 저도 다음주부터는 한 번 미션을 잘 쪼개서 학습+구현 시간분배 잘해보겠습니다.
+
