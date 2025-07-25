@@ -115,16 +115,17 @@ https://chatgpt.com/share/6879e219-d5d4-800b-86aa-df319e310a21
 
 ## 이우현의 육각형 성장 그래프🎯
 
-<img width="1173" height="1049" alt="Image" src="https://github.com/user-attachments/assets/5b2611bb-6c96-49ec-a66f-17e01b7b876c" />
-<img width="1173" height="1049" alt="Image" src="https://github.com/user-attachments/assets/6bdf3486-349b-4739-b00c-c02df86106e7" />
-<img width="1173" height="1049" alt="Image" src="https://github.com/user-attachments/assets/6a6c8e17-c1cd-4265-bd7f-4b5332598e78" />
-<img width="1173" height="1049" alt="Image" src="https://github.com/user-attachments/assets/80aad0a6-77b5-4550-8925-960bd9a2a645" />
+<img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/5b2611bb-6c96-49ec-a66f-17e01b7b876c" />
+<img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/6bdf3486-349b-4739-b00c-c02df86106e7" />
+<img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/6a6c8e17-c1cd-4265-bd7f-4b5332598e78" />
+<img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/80aad0a6-77b5-4550-8925-960bd9a2a645" />
 
 이슬 : 우현님은 어디 한 곳에 치우쳐져 있는 게 아니라 골고루 분배되어 있네요!! 부럽습니다,, 관리를 잘하시는 거 같아요!!
 
 김찬휘 : 저는 이번 목요일 미션이 가장 어렵다고 생각이 드는데..  넓은 cs지식으로 원하신 목표 달성하신 것 같습니다!
 
 박천상 : 균등한 육각형의 형태가 나오는 것은 우현님의 학습과 구현 시간관리의 밸런스가 적절한 덕분이겠죠? 학습 & 구현의 절묘한 균형을 맞추는 점이 뛰어나 보입니다.
+
 ## 박천상의 육각형 성장 그래프🎯
 
 <img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/883f5983-dd9a-4519-af06-ccb62449c787" />
