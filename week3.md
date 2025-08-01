@@ -345,3 +345,23 @@
 - 원인 분석 및 GPT 피드백 기록
 - 선행 역량 우선 강화 전략 수립 및 실행
 </details>
+
+---
+
+## **수행결과**
+
+<details>
+  <summary>J016 고윤성 : 퀘스트 2</summary>
+</details>
+
+<details>
+  <summary>J020 권민서 : 퀘스트 1</summary>
+</details>
+
+<details>
+  <summary>J129 박혜린 : 퀘스트 2</summary>
+</details>
+
+<details>
+  <summary>J209 이정훈 : 퀘스트 3</summary>
+</details>
