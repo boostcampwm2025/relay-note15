@@ -360,6 +360,9 @@
 
 <details>
   <summary>J129 박혜린 : 퀘스트 2</summary>
+  계획
+  16일차에 슬랙에서 도움이 되는 글을 올려주신 분 선정
+  미션 이후에 그 분의 GIST 파악해보면서 배울 점 정리 회고
 </details>
 
 <details>
